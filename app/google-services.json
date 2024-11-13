@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597883620798",
+    "project_id": "joki1-7e4bb",
+    "storage_bucket": "joki1-7e4bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597883620798:android:08c6e71bafeadc72afbdef",
+        "android_client_info": {
+          "package_name": "com.example.fathia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS-S9Jg-3tjcfLdbPkp14dcWK4supVg3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
